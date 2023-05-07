@@ -193,7 +193,7 @@ class CreateForm extends Component {
                 this.props.dispatch(action);
               }}
             >
-              Thêm Sinh Viên
+              Thêm Sinh Viên 
             </button>
             <button className="btn btn-primary mx-2">Update</button>
           </div>
